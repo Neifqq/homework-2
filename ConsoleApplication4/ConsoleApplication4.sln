@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication4", "ConsoleApplication4\ConsoleApplication4.csproj", "{58F7B770-BD4C-47A2-B00F-D3EDE5730F8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pi4", "ConsoleApplication4\pi4.csproj", "{58F7B770-BD4C-47A2-B00F-D3EDE5730F8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

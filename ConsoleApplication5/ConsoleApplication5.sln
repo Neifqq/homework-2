@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication5", "ConsoleApplication5\ConsoleApplication5.csproj", "{92F96AF9-E46B-4235-B19D-4ABB6382F2CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "int3(2)", "ConsoleApplication5\int3(2).csproj", "{92F96AF9-E46B-4235-B19D-4ABB6382F2CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

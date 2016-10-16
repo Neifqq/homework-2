@@ -19,7 +19,7 @@ namespace ConsoleApplication4
                 k++;
             }
             while (((8 * sum + log) - (8 * last + log)) > z);
-            Console.WriteLine(8*last + log);
+            Console.WriteLine(8 * sum + log);
             // Выводит неточно, хотя проверял каждый шаг. Возможно, проблема в логарифме.
         }
     }
